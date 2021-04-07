@@ -1,7 +1,7 @@
 {
   "homepage": "http://shahpranaf.github.io/react-slider",
   "name": "react-slider",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.1.5",
