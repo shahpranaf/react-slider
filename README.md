@@ -1,4 +1,4 @@
-![SLIDER CI](https://github.com/shahpranaf/react-slider/workflows/Slider%20CI/badge.svg)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codecov](https://codecov.io/gh/shahpranaf/react-slider/branch/master/graph/badge.svg)](https://codecov.io/gh/shahpranaf/react-slider) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![License](https://img.shields.io/github/license/shahpranaf/react-slider)
+![SLIDER CI](https://github.com/shahpranaf/react-slider/workflows/SLIDER%20CI/badge.svg)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codecov](https://codecov.io/gh/shahpranaf/react-slider/branch/master/graph/badge.svg)](https://codecov.io/gh/shahpranaf/react-slider) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![License](https://img.shields.io/github/license/shahpranaf/react-slider)
 
 # Getting Started with React Slider
 
